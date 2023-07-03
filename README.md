@@ -26,6 +26,7 @@ Everybody runs a client. It can be a native client, a web client, etc. To publis
 - Twitter bans people;
 - Twitter shadowbans people;
 - Twitter has a lot of spam.
+- Twitter has no ecosystem consistency. In 2023, Twitter API functions that had been stable for a decade were closed without warning, breaking many 3rd party apps that had been built around these functions.
 
 ### The problem with Mastodon and similar programs
 
